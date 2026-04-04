@@ -6,7 +6,7 @@
 @ imageUrl = https://originals.skylit.studio
 @ targetDirectory = output
 
-> Highlights
+>
 0171 - Life’s mine, at last
 # 0711 - What did you expect?
 4021 - Not yet satisfied
@@ -66,7 +66,7 @@
 4015 - Modernism (Reimagined)
 4017 - On it
 4020 - Pick me up, Mirabelle
-> 
+> Long forgotten
 # 7711 - YCC/Survey/Diode/Introduction to 77 Series
 7712 - Leading
 # 7727 - exit/ /End of the 77 Series
