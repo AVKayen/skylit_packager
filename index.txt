@@ -8,38 +8,30 @@
 
 > Highlights
 0171 - Life’s mine, at last
-0231 - Color: Black
-0312 - Pastel
-0333 - With Love, You Falter
-0711 - What did you expect?
-> Exit
-1003 - Sleepflight
-1005 - Perfection
-1006 - And lack thereof
-1009 - Negative'd be 10$ 
-1010 - Villa
-1013 - Cultivating Addictions
-1014 - Monaco
+# 0711 - What did you expect?
+4021 - Not yet satisfied
+2881 - Morning!
+# 0312 - Pastel
 > Sets
 1057 - A Culture Shock
-1193 - Over a Tramway
-1197 - Under a Dreamway
+# 1193 - Over a Tramway
+# 1197 - Under a Dreamway
 1710 - Blood Pressure [mmHg]
-1711 - I think we fought for Comfort
-1715 - Rest, friend, rest
-1981 - Waiting off a Train
+# 1711 - I think we fought for Comfort
+# 1715 - Rest, friend, rest
+# 1981 - Waiting off a Train
 1982 - Waiting on a Train
-1983 - Try Les Halles
+# 1983 - Try Les Halles
 1984 - Imagine if
-1985 - The Front Seat
-1987 - Apartament Building
+# 1985 - The Front Seat
+# 1987 - Apartament Building
 1991 - On it Brothers
+0333 - With Love, You Falter
+0331 - High-class
+0337 - Moving on
+0338 - Heavy hitters
 2601 - I want to be There
-> Dunes
-2602 - Magic
-2603 - Traffic control
-2604 - Traffic control
-2605 - Traffic control
+2610 - Hard forgotten
 > Breathing
 2700 - About and Over
 2701 - Yo,
@@ -48,21 +40,34 @@
 2704 - Bridge 1
 2705 - Bridge 1
 2707 - Machinery
-2881 - Morning!
 3112 - Waterparks?
 3132 - Heavy
+1003 - Sleepflight
+1004 - Perfection
+# 1005 - Perfection
+# 1006 - And lack thereof
+1009 - Negative'd be 10$ 
+1010 - Villa
+1013 - Cultivating Addictions
+1014 - Monaco
+> Dunes
+2602 - Magic
+2603 - Traffic control
+2604 - Traffic control
+2605 - Traffic control
+> Heavy Water
 3171 - Parlor
-> Ancient
+0231 - Color: Black
 4001 - Audacity not to Speak
 4003 - Middle of the city
 4006 - Okay in the first place
 4007 - So?
-4008 - Middle of the city 
+# 4008 - Middle of the city 
 4015 - Modernism (Reimagined)
 4017 - On it
 4020 - Pick me up, Mirabelle
-4021 - Not yet satisfied
-7711 - YCC/Survey/Diode/Introduction to 77 Series
+> 
+# 7711 - YCC/Survey/Diode/Introduction to 77 Series
 7712 - Leading
-7727 - exit/ /End of the 77 Series
-9912 - V7-1-18-1
+# 7727 - exit/ /End of the 77 Series
+# 9912 - V7-1-18-1
