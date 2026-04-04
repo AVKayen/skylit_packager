@@ -1,0 +1,16 @@
+{
+  "name": "earthbound",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1024.0",
+    "sharp": "^0.34.5"
+  }
+}
