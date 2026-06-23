@@ -75,11 +75,11 @@ async function main() {
                 continue;
             }
             const [id, title] = entry.split("-").map((part) => part.trim());
-            if (!id || !title) {
+            if (!id) {
                 console.log(`Invalid line format: ${line}`);
                 continue;
             }
-            currentSection.entries.push({ id, title });
+            currentSection.entries.push({ id, title: title || "untitled" });
         }
         if (currentSection.entries.length > 0) {
             indexSections.push(currentSection);
