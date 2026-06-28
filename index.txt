@@ -34,6 +34,8 @@
 0338 - Heavy hitters
 2601 - I want to be There
 2610 - Hard forgotten
+4080 - Malevolent
+4081 - Waiting on a Train
 4217 - World beyond
 4220 - Peacekeepers
 4221 - Quarry
@@ -81,6 +83,7 @@
 2604 - Traffic control
 2605 - Traffic control
 4353 - Nooks
+4357 - Dunes
 > Fullfilled
 2609 - God knows their chapels
 2608 - Watch
