@@ -73,7 +73,7 @@
 1009 - Negative'd be 10$ 
 1010 - Villa
 1013 - Cultivating Addictions
-4351 - The wierdest dream
+4351 - The weirdest dream
 4352 - Views
 4354 - Solitare
 4355 - False positive
