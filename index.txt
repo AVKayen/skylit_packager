@@ -12,9 +12,9 @@
 4021 - Not yet satisfied
 2881 - Morning!
 1014 - Monaco
-4015 - Modernism (Reimagined) - Previous title: Modernism
+4015 - Modernism (Reimagined) - Previous title: Modernism - Waiting for rescan
 # 0312 - Pastel
-> Sets
+> Trials
 1057 - A Culture Shock
 # 1193 - Over a Tramway
 # 1197 - Under a Dreamway
@@ -56,7 +56,7 @@
 # 4077 - Minor saviour 
 # 4079 - Hilly 
 # 4078 - Festivities, Escape
-> Breathing
+> What I thought of as Breathing
 # 2700 - About and Over
 2701 - Yo,
 2702 - Catharsis
@@ -81,10 +81,11 @@
 2602 - Magic
 2603 - Traffic control
 2604 - Traffic control
-2605 - Traffic control
 4353 - Nooks
+2605 - Traffic control
 4357 - Dunes
-> Fullfilled
+> Say what your will
+# Previously: Fullfilled
 # 2609 - God knows their chapels
 2608 - Watch
 2611 - Five in the evening
@@ -94,7 +95,8 @@
 4283 - Movies with family
 # 4284 - Moving dissapointment
 # 4285 - Machinery
-> Heavy Water
+> Icebreakers
+# Previously: Heavy Water
 0441 - No Ice
 0442 - Retrospect
 # 3171 - Parlor
