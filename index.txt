@@ -12,13 +12,13 @@
 4021 - Not yet satisfied
 2881 - Morning!
 1014 - Monaco
-4015 - Modernism (Reimagined)
+4015 - Modernism (Reimagined) - Previous title: Modernism
 # 0312 - Pastel
 > Sets
 1057 - A Culture Shock
 # 1193 - Over a Tramway
 # 1197 - Under a Dreamway
-1710 - Blood Pressure [mmHg]
+# 1710 - Blood Pressure [mmHg] - WAITING FOR RESCAN
 # 1711 - I think we fought for Comfort
 # 1715 - Rest, friend, rest
 # 1981 - Waiting off a Train
@@ -27,51 +27,51 @@
 1984 - Imagine if
 # 1985 - The Front Seat
 # 1987 - Apartament Building
-1991 - On it Brothers
-0333 - With Love, You Falter
-0331 - High-class
-0337 - Moving on
-0338 - Heavy hitters
-2601 - I want to be There
-2610 - Hard forgotten
-4080 - Malevolent
-4081 - Waiting on a Train
+# 1991 - On it Brothers
+# 0333 - With Love, You Falter
+0331 - Highclass
+# 0337 - Moving on
+# 0338 - Heavy hitters
+# 2601 - I want to be There
+# 2610 - Hard forgotten
+# 4080 - Malevolent
+# 4081 - Waiting on a Train
 4217 - World beyond
 4220 - Peacekeepers
-4221 - Quarry
+# 4221 - Quarry
 4281 - Red
 4282 - Home beacon
-4065 - A Seagull Lull
-4066 - Fright 
-4067 - Coast 
-4068 - Coast 
+# 4065 - A Seagull Lull
+# 4066 - Fright 
+# 4067 - Coast 
+# 4068 - Coast 
 4069 - Lover, Escape 
-4070 - Quick, Escape 
-4071 - They pray for you, everyday 
-4072 - Minor saviour 
-4073 - Coast 
-4074 - Still up, still healthier 
-4075 - Siga  
+# 4070 - Quick, Escape 
+# 4071 - They pray for you, everyday 
+# 4072 - Minor saviour 
+# 4073 - Coast 
+# 4074 - Still up, still healthier 
+# 4075 - Siga  
 4076 - En Route 
-4077 - Minor saviour 
-4079 - Hilly 
-4078 - Festivities, Escape
+# 4077 - Minor saviour 
+# 4079 - Hilly 
+# 4078 - Festivities, Escape
 > Breathing
-2700 - About and Over
+# 2700 - About and Over
 2701 - Yo,
 2702 - Catharsis
 2703 - Milky
-2704 - Bridge 1
-2705 - Bridge 1
-2707 - Machinery
+# 2704 - Bridge 1
+# 2705 - Bridge 1
+# 2707 - Machinery
 3112 - Waterparks?
-3132 - Heavy
-1003 - Sleepflight
-1004 - Perfection
+# 3132 - Heavy
+# 1003 - Sleepflight
+# 1004 - Perfection
 # 1005 - Perfection
 # 1006 - And lack thereof
 1009 - Negative'd be 10$ 
-1010 - Villa
+# 1010 - Villa
 1013 - Cultivating Addictions
 4351 - The weirdest dream
 4352 - Views
@@ -85,27 +85,27 @@
 4353 - Nooks
 4357 - Dunes
 > Fullfilled
-2609 - God knows their chapels
+# 2609 - God knows their chapels
 2608 - Watch
 2611 - Five in the evening
-2612 - God knows their chapels
+# 2612 - God knows their chapels
 2613 - See yourself
 2614 - 80m3
 4283 - Movies with family
-4284 - Moving dissapointment
-4285 - Machinery
+# 4284 - Moving dissapointment
+# 4285 - Machinery
 > Heavy Water
 0441 - No Ice
-0442 - Ice
-3171 - Parlor
+0442 - Retrospect
+# 3171 - Parlor
 0231 - Color: Black
 4001 - Audacity not to Speak
 4003 - Middle of the city
-4006 - Okay in the first place
-4007 - So?
+# 4006 - Okay in the first place
+# 4007 - So?
 # 4008 - Middle of the city 
 4017 - On it
-4020 - Pick me up, Mirabelle
+# 4020 - Pick me up, Mirabelle
 > Long forgotten
 # 7711 - YCC/Survey/Diode/Introduction to 77 Series
 7712 - Leading
