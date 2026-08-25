@@ -60,7 +60,6 @@
 # 4066 - Fright 
 # 4067 - Coast 
 # 4068 - Coast 
-4069 - Lover, Escape 
 # 4070 - Quick, Escape 
 # 4071 - They pray for you, everyday 
 # 4072 - Minor saviour 
@@ -71,6 +70,7 @@
 # 4077 - Minor saviour 
 # 4079 - Hilly 
 # 4078 - Festivities, Escape
+4069 - Lover, Escape 
 > What I thought of as Breathing
 # 2700 - About and Over
 2701 - Yo,
