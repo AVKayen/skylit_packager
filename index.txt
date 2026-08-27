@@ -98,6 +98,7 @@
 1976 - Minerva
 # 4086 - Busy Magic
 # 4210 - Way up, Come Down
+0774 - Golden
 > Dunes
 2602 - Magic
 2603 - Traffic control
