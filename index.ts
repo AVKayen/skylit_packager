@@ -20,6 +20,7 @@ type Section = {
 type IndexEntry = {
     id: string;
     title: string;
+    metadata: Record<string, string>;
 };
 
 type IndexSection = {
@@ -35,6 +36,7 @@ type Photo = {
     lqip?: string;
     extension: string;
     column: 1 | 2 | 3;
+    metadata: Record<string, string>;
 };
 
 async function main() {
@@ -74,12 +76,35 @@ async function main() {
                 indexArguments.set(key, value);
                 continue;
             }
-            const [id, title] = entry.split("-").map((part) => part.trim());
+            const [id, data] = entry.split("-").map((part) => part.trim());
             if (!id) {
                 console.log(`Invalid line format: ${line}`);
                 continue;
             }
-            currentSection.entries.push({ id, title: title || "untitled" });
+            let title: string = "untitled";
+            let metadata: Record<string, string> = {};
+            if (data?.trim().startsWith("{") && data?.trim().endsWith("}")) {
+                try {
+                    const jsonData = JSON.parse(data.trim());
+                    if (typeof jsonData === "object" && jsonData !== null) {
+                        title = (jsonData as Record<string, string>).title as string || "untitled";
+                        for (const [key, value] of Object.entries(jsonData)) {
+                            if (key !== "title") {
+                                metadata[key] = value as string;
+                            }
+                        }
+                    }
+                } catch (error) {
+                    console.log(`Error parsing JSON data for entry ${line}: ${error}`);
+                }
+            } else {
+                if (data?.trim()) {
+                    title = data;
+                }
+                metadata = {};
+            }
+
+            currentSection.entries.push({ id, title, metadata });
         }
         if (currentSection.entries.length > 0) {
             indexSections.push(currentSection);
@@ -167,6 +192,7 @@ async function main() {
                 lqip: imageData.lqip,
                 extension: imageData.extension,
                 column: 1, // Default column, will be updated later
+                metadata: entry.metadata,
             });
         }
         sections.push(section);

@@ -7,7 +7,7 @@
 @ targetDirectory = output
 
 >
-0171 - Life’s mine, at last
+0171 - { "title": "Life’s mine, at last", "year": 2025 }
 # 0711 - What did you expect?
 4021 - Not yet satisfied
 2881 - Morning!
