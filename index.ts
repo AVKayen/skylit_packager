@@ -206,6 +206,12 @@ async function main() {
         console.log(`Error copying index.html: ${error}`);
     }
 
+    try {
+        await copyFile("favicon.ico", `${targetPath}/favicon.ico`);
+    } catch (error) {
+        console.log(`Error copying favicon.ico: ${error}`);
+    }
+
     // Distribute photos among the masonry columns based on their aspect ratios
     for (const section of sections) {
         let columns: Array<{ photos: string[]; height: number }> = [

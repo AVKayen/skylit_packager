@@ -55,7 +55,7 @@
 4281 - Red
 4282 - Home beacon
 4297 - Keep it to yourself
-4298 - Truely lovely workday
+4298 - Truly lovely workday
 # 4065 - A Seagull Lull
 # 4066 - Fright 
 # 4067 - Coast 
@@ -93,7 +93,7 @@
 1013 - Cultivating Addictions
 4351 - The weirdest dream
 4352 - Views
-4354 - Solitare
+4354 - Solitaire
 4355 - False positive
 1976 - Minerva
 # 4086 - Busy Magic
