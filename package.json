@@ -3,6 +3,10 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "package": "bun run index.ts",
+    "typecheck": "bunx tsc --noEmit"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

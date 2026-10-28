@@ -1,0 +1,22 @@
+{
+  "indexFile": "index.txt",
+  "storage": {
+    "type": "s3",
+    "bucket": "skylit-photos",
+    "region": "us-east-1",
+    "endpoint": "https://s3.amazonaws.com",
+    "prefix": "",
+    "forcePathStyle": false
+  },
+  "output": {
+    "directory": "output",
+    "imageWidth": 1200,
+    "imageQuality": 80,
+    "columns": 3,
+    "columnGap": 50
+  },
+  "staticFiles": [
+    "index.html",
+    "favicon.ico"
+  ]
+}
