@@ -15,6 +15,8 @@
 4015 - Modernism (Reimagined) - Previous title: Modernism - Waiting for rescan
 # 0312 - Pastel
 3061 - Lifetime
+
+
 > Trials
 1057 - A Culture Shock
 # 1193 - Over a Tramway
@@ -56,6 +58,7 @@
 # 4219 - Isle
 4281 - Red
 4282 - Home beacon
+4360 - Cloudbound
 4297 - Keep it to yourself
 4298 - Truly lovely workday
 # 4065 - A Seagull Lull
@@ -76,13 +79,18 @@
 # 4079 - Hilly 
 # 4078 - Festivities, Escape
 4069 - Lover, Escape 
-> What I thought of as Breathing
+# 4362 - 
+# 4363 - 
+
+
+> Fresh Air 
 # 2700 - About and Over
 2701 - Yo,
 2702 - Catharsis
 2703 - Milky
 # 2704 - Bridge 1
 # 2705 - Bridge 1
+# 4359 - Under the Milky Way
 # 2707 - Machinery
 # 2712 - Mesh, Connections
 3112 - Waterparks?
@@ -98,7 +106,7 @@
 4022 - Next year, Monarchy, Hunt
 # 1010 - Villa
 1013 - Cultivating Addictions
-2211 - Scrathing the surface
+2211 - Scratching the surface
 4351 - The weirdest dream
 1978 - Way better Then Now
 4352 - Views
@@ -108,6 +116,8 @@
 # 4086 - Busy Magic
 # 4210 - Way up, Come Down
 0774 - Golden
+
+
 > Dunes
 2602 - Magic
 2603 - Traffic control
@@ -131,6 +141,8 @@
 # 4284 - Moving dissapointment
 # 4285 - Machinery
 0744 - Mule
+
+
 > Icebreakers
 # Previously: Heavy Water
 0441 - No Ice
@@ -149,6 +161,9 @@
 # 4008 - Middle of the city 
 4017 - On it
 # 4020 - Pick me up, Mirabelle
+4361 - Fauxcentury
+4358 - Two quarts
+
 > Long forgotten
 # 7711 - YCC/Survey/Diode/Introduction to 77 Series
 7712 - Leading
