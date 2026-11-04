@@ -15,6 +15,8 @@
 4015 - Modernism (Reimagined) - Previous title: Modernism - Waiting for rescan
 # 0312 - Pastel
 3061 - Lifetime
+
+
 > Trials
 1057 - A Culture Shock
 # 1193 - Over a Tramway
@@ -76,7 +78,9 @@
 # 4079 - Hilly 
 # 4078 - Festivities, Escape
 4069 - Lover, Escape 
-> What I thought of as Breathing
+
+
+> Fresh Air 
 # 2700 - About and Over
 2701 - Yo,
 2702 - Catharsis
@@ -98,7 +102,7 @@
 4022 - Next year, Monarchy, Hunt
 # 1010 - Villa
 1013 - Cultivating Addictions
-2211 - Scrathing the surface
+2211 - Scratching the surface
 4351 - The weirdest dream
 1978 - Way better Then Now
 4352 - Views
@@ -108,6 +112,8 @@
 # 4086 - Busy Magic
 # 4210 - Way up, Come Down
 0774 - Golden
+
+
 > Dunes
 2602 - Magic
 2603 - Traffic control
@@ -131,6 +137,8 @@
 # 4284 - Moving dissapointment
 # 4285 - Machinery
 0744 - Mule
+
+
 > Icebreakers
 # Previously: Heavy Water
 0441 - No Ice
@@ -154,3 +162,11 @@
 7712 - Leading
 # 7727 - exit/ /End of the 77 Series
 # 9912 - V7-1-18-1
+
+
+4358 - Two quarts
+# 4359 - Under the Milky Way
+4360 - Cloudbound
+4361 - Fauxcentury
+# 4362 - 
+# 4363 - 
